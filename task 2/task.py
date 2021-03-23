@@ -10,4 +10,5 @@ def main(num, sum):
     return result
 
 if __name__ == '__main__':
+    # Тут получается 0.08 что эквивалентно 1/12
     print(main(2, 10))
