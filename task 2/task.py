@@ -26,3 +26,4 @@ if __name__ == '__main__':
     print(main(1, 6))
     print(main(1, 7))
     print(main(4, 14))
+    print(main(100, 300))
